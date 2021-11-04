@@ -14,7 +14,7 @@
 	<name>jpaPostgresServer</name>
 	<description>Mvc Data </description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
