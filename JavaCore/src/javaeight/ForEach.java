@@ -11,4 +11,8 @@ public class ForEach {
         // marijuanaStrains.forEach(System.out::println);
     }
 
+
+
+
+
 }
