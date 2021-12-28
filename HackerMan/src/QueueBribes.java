@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class QueueBribes {
+public class QueueBribes {
+
+
+
 }
